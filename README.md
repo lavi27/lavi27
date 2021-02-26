@@ -6,7 +6,7 @@
 
 python, HTML beginner
 
-![Profile](simbol 500^2.png)
+![Profile](https://github.com/lavi27/lavi27/blob/main/simbol%20500%5E2.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)
 

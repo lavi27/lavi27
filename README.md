@@ -10,4 +10,4 @@ python, HTML beginner
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)
 
-[![HitCount](http://hits.dwyl.com/lavi27/lavi27.svg)](http://hits.dwyl.com/lavi27/lavi27)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">

@@ -1,8 +1,8 @@
-## 안농
+## 안농 Hewwo
 
-나는 사람이야
+나는 사람이야 I am a human
 
-붸
+붸 bruh
 
 python, HTML beginner
 

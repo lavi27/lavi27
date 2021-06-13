@@ -4,8 +4,7 @@
 
 붸 bruh
 
-python, HTML, css beginner
-C nooooob
+python, HTML, css beginner, C nooooob
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)
 

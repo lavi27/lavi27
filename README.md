@@ -1,12 +1,10 @@
 ## 안농 Hewwo
 
-나는 사람이야 I am a human
-
-붸 bruh
-
-python, HTML, css beginner
+python, HTML, css, js beginner
 
 C nooooob
+
+homepage: https://lavi27.github.io/l/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)
 

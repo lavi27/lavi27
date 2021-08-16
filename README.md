@@ -8,16 +8,16 @@
 <h3 align="center"><b>쓰는거 using</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 </p>
 
 <h3 align="center"><b>배우는거 learning</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 <p align="center">

@@ -5,6 +5,9 @@
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;
   <a href="mailto:npt1237@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+  라비 lavi#2253
 </p>
 
 <h3 align="center"><b>쓰는거 using</b></h3>
@@ -32,9 +35,9 @@
 </p>
 
 <h3 align="center"><b>그외 etc</h3>
-<div align="center">
+<span align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi27)
   &nbsp;&nbsp;&nbsp;
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)
-</div>
+</span>

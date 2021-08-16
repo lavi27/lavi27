@@ -4,7 +4,6 @@
   <br>
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/homepage-E34F26?style=flat-square&logoColor=white"/></a>
 </p>
-<br>
 
 <h3 align="center"><b>쓰는거 using</b></h3>
 <p align="center">
@@ -12,7 +11,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 </p>
-<br>
 
 <h3 align="center"><b>배우는거 learning</b></h3>
 <p align="center">
@@ -30,7 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
-<br>
 
 <h3 align="center"><b>그외 etc</h3>
 <div align="center">

@@ -9,6 +9,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
   라비 lavi#2253
 </p>
+<br>
 
 <h3 align="center"><b>쓰는거 using</b></h3>
 <p align="center">
@@ -16,6 +17,7 @@
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 </p>
+<br>
 
 <h3 align="center"><b>배우는거 learning</b></h3>
 <p align="center">
@@ -33,6 +35,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
+<br>
 
 <h3 align="center"><b>그외 etc</h3>
 <span align="center">

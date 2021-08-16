@@ -1,4 +1,3 @@
-<img src="banner.png" id="counter">
 <h3 align="center">헬로 hello</h3>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lavi27" id="counter">

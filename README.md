@@ -1,6 +1,6 @@
 <h1 align="center"><b>헬로 hello</b></h1>
 <p align="center">
-  보잘것 없는 한구긴 프론트앤드 개발자.
+  보잘것 없는 한구긴 프론트앤드 개발자.  Poor front-end developer.
   <br><br>
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;

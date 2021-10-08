@@ -48,4 +48,6 @@
   <a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi27)</a>
   &nbsp;&nbsp;&nbsp;
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)</a>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavi)](https://solved.ac/lavi)
 </span>

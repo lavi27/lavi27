@@ -28,14 +28,17 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000"/></a>
 </p>
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=Flask&logoColor=white"/></a>
+</p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
    &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
 <br>
 

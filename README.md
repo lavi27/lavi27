@@ -8,6 +8,9 @@
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
   라비 lavi#2253
+  <br>
+  <br>
+  <img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/>
 </p>
 <br>
 

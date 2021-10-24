@@ -49,6 +49,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/DBeaver-856F60?style=flat-square&logoColor=white"/></a>
 </p>
 <br>
 

@@ -14,17 +14,6 @@
 
 <h3 align="center"><b>배우는거 learning</b></h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/DBeaver-856F60?style=flat-square&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-</p>
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -56,12 +45,25 @@
 </p>
 <br>
 
+<h3 align="center"><b>툴 tool</h3>
+ <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/DBeaver-856F60?style=flat-square&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+</p>
+<br>
+
 <h3 align="center"><b>그외 etc</h3>
 <span align="center">
-
+  
   <a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi27)</a>
   &nbsp;&nbsp;&nbsp;
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavi27&theme=buefy)</a>
-  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavi)](https://solved.ac/lavi)
 </span>

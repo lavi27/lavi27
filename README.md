@@ -52,7 +52,7 @@
 
 <h3 align="center"><b>툴 tool</h3>
  <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
   &nbsp;
@@ -61,6 +61,10 @@
   <a href="#"><img src="https://img.shields.io/badge/DBeaver-856F60?style=flat-square&logoColor=white"/></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 </p>
 <br>
 

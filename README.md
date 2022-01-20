@@ -1,14 +1,16 @@
 <h1 align="center"><b>헬로 hello</b></h1>
 <p align="center">
-  학생 개발자.  Student developer.
+  학생 개발자.  Student developer.  <a href="https://lavi27.github.io/l/">내 플레이리스트(난해함 주의)</a>
   <br><br>
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:npt1237@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://blog.naver.com/npt1237"><img src="https://img.shields.io/badge/네이버블로그-00C73C?style=flat-square"/></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%EB%9D%BC%EB%B9%84%20lavi%232253-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/npt1237@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/>
+  <a href="#"><img src="https://img.shields.io/badge/%EB%9D%BC%EB%B9%84%20lavi%232253-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/></a>
 </p>
 <br>
 

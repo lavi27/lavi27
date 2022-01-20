@@ -1,6 +1,6 @@
 <h1 align="center"><b>헬로 hello</b></h1>
 <p align="center">
-  학생 개발자.  Student developer.  <a href="https://lavi27.github.io/l/">내 플레이리스트(난해함 주의)</a>
+  학생 개발자.  Student developer.  <a href="https://youtube.com/playlist?list=PLPnfu8Z_w093l40r5X4VW5A5Tpg5barW9">내 플레이리스트(난해함 주의)</a>
   <br><br>
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;

@@ -4,8 +4,6 @@
   <br><br>
   <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;
-  <a href="https://blog.naver.com/npt1237"><img src="https://img.shields.io/badge/네이버블로그-00C73C?style=flat-square"/></a>
-  &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/npt1237@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/%EB%9D%BC%EB%B9%84%20lavi%232253-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>

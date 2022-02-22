@@ -1,6 +1,6 @@
 # 헬로 hello
 
-학생 개발자.  Student developer.  <a href="https://youtube.com/playlist?list=PLPnfu8Z_w093l40r5X4VW5A5Tpg5barW9">내 플레이리스트(난해함 주의)</a>
+뭔가 엄청난걸 만들고싶은 사람.
 <br><br>
 <a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
 &nbsp;&nbsp;

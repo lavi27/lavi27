@@ -31,3 +31,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+## 배우고 싶은거 want to learn
+
+<a href="#"><img src="https://img.shields.io/badge/Go-00acd7?style=flat-square&logo=Go&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>

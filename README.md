@@ -9,6 +9,9 @@
 <a href="#"><img src="https://img.shields.io/badge/%EB%9D%BC%EB%B9%84%20lavi%232253-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/></a>
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jprp03v11Wc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br>
 

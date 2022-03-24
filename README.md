@@ -10,11 +10,7 @@
 &nbsp;&nbsp;
 <a href="#"><img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/></a>
    
-   <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![jprp03v11Wc](http://img.youtube.com/vi/jprp03v11Wc/0.jpg)](http://www.youtube.com/watch?v=jprp03v11Wc "Video Title")
 
 
 <br>

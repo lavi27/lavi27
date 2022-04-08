@@ -29,6 +29,10 @@
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 &nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/zustand-fdae06?style=flat-square&logo=zustand&logoColor=white"/></a>
+&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=Flask&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white"/></a>

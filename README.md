@@ -33,6 +33,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=Flask&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 

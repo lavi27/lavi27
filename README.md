@@ -53,17 +53,3 @@
 <a href="#"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-
-oracle
-
-nest js
-
-AWS
-
-JEST
-
-jenkins
-
-docker
-
-TensorFlow

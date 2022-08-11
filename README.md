@@ -19,17 +19,23 @@
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-&nbsp;
+
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 &nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
+&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/zustand-fdae06?style=flat-square&logo=zustand&logoColor=white"/></a>
-&nbsp;
+
 <a href="#"><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=Flask&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white"/></a>

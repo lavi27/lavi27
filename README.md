@@ -16,6 +16,10 @@
 
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 &nbsp;
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Go-00acd7?style=flat-square&logo=Go&logoColor=white"/></a>
+&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
@@ -46,11 +50,7 @@
 
 ## 배우고 싶은거 want to learn
 
-<a href="#"><img src="https://img.shields.io/badge/Go-00acd7?style=flat-square&logo=Go&logoColor=white"/></a>
-&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 &nbsp;

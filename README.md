@@ -36,8 +36,6 @@
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
-&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=Flask&logoColor=white"/></a>

@@ -2,7 +2,7 @@
 
 뭔가 엄청난걸 만들고싶은 사람.
 <br><br>
-<a href="https://lavi27.github.io/l/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
+<a href="http://lavi.kro.kr/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/npt1237@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 &nbsp;&nbsp;

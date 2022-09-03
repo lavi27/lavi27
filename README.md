@@ -15,3 +15,5 @@
 <a href="https://wakatime.com/@lavi27">
   <img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/>
 </a>
+
+<img src="https://wakatime.com/share/@lavi27/92f9a13f-4bcd-45c2-b2c9-2979713436cd.svg"/>

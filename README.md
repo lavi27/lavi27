@@ -1,4 +1,4 @@
-<a href="http://lavi.kro.kr/">
+<a href="https://lavi27.netlify.app/">
   <img src="https://img.shields.io/badge/Homepage-930050?style=flat-square&logo=HomeAdvisor&logoColor=white"/>
 </a>
 &nbsp;&nbsp;

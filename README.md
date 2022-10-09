@@ -9,5 +9,3 @@
 <a href="https://wakatime.com/@lavi27">
   <img src="https://wakatime.com/badge/user/1196296a-6a7c-4863-a9d7-455d612e5af1.svg"/>
 </a>
-
-<a href="https://opgc.me/#/users/lavi27" target="_blank"><img src="https://api.opgc.me/githubs/users/lavi27/tag/?theme=basic" /></a>

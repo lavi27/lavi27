@@ -3,7 +3,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/%EB%9D%BC%EB%B9%84%20lavi%232253-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lavi%230732-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://wakatime.com/@lavi27">
